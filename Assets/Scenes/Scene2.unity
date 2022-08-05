@@ -6978,6 +6978,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 214474185}
     - target: {fileID: 4440405187479250380, guid: ff05bf1ddb94e9f40b7fcd0c114eec8b, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4440405187479250380, guid: ff05bf1ddb94e9f40b7fcd0c114eec8b, type: 3}
       propertyPath: comp_panel
       value: 
       objectReference: {fileID: 624427178}

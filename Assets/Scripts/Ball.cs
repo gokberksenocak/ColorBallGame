@@ -17,7 +17,7 @@ public class Ball : MonoBehaviour
     [SerializeField] private AudioClip[] clips;
     private void Start()
     {
-        Pace = 30;
+        Pace = 20;
     }
 
     private void OnCollisionEnter(Collision collision)
